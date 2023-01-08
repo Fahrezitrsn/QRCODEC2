@@ -29,7 +29,7 @@
             android:id="@+id/textViewNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="Fahrezi"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -41,7 +41,7 @@
             android:id="@+id/textViewKelas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="TI.21.C2"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -53,7 +53,7 @@
             android:id="@+id/textViewNIM"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="312110578"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
     </LinearLayout>
 </RelativeLayout>
